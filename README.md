@@ -1,10 +1,10 @@
-🌸 Hey there! Thanks for stopping by
+#=🌸 Hey there! Thanks for stopping by
 
 This space is all about data, dashboards, and turning numbers into clarity 📊
 
 Passionate about growing in data analytics, learning new tools, and turning messy datasets into meaningful insights because data should feel empowering, not intimidating.
 
-Here, you’ll find:
+##Here, you’ll find:
 
 🛠️ Analytics projects & Power BI dashboards
 
@@ -19,10 +19,10 @@ Whether the goal is to explore dashboards, learn something new, or see how real-
 Let’s analyze, visualize, and grow together one dataset at a time.
 You bring the questions, I’ll bring the dashboards ☕📈
 
-🌐 Let’s Connect:
+##🌐 Let’s Connect:
 
- https://www.linkedin.com/in/vandanadaksh 
+ ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vandanadaksh)
 
-💻 Tech Stack:
+##💻 Tech Stack:
 
 Power BI • SQL • Excel • Python • Pandas • Matplotlib • Plotly • Data Modeling • DAX 
