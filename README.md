@@ -12,7 +12,7 @@ Passionate about growing in data analytics, learning new tools, and turning mess
 
 Whether the goal is to explore dashboards, learn something new, or see how real-world data problems get solved—you’re in the right place 💙
 
-Let’s analyze, visualize, and grow together—one dataset at a time.  
+Let’s analyze, visualize, and grow together one dataset at a time.  
 You bring the questions, I’ll bring the dashboards ☕📈
 
 ---
